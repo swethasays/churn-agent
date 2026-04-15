@@ -1,0 +1,2 @@
+timestamp,customer_id,risk_level,churn_prob,recipient,subject,action
+2026-04-15 13:37:47,Test,Medium,55.0%,ss8410533@gmail.com,We Value Your Business - Exclusive Offer Inside,Retention email approved and sent

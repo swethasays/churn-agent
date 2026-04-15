@@ -1,0 +1,13 @@
+streamlit
+fastapi
+uvicorn
+langchain
+langchain-groq
+langgraph
+scikit-learn
+shap
+pandas
+numpy
+joblib
+python-dotenv
+groq
